@@ -32,7 +32,7 @@
     <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="no-place">fără loc</term>
     <term name="no-place" form="short">f. l.</term>
-    <term name="no-publisher">fără editorr</term> <!-- sine nomine -->
+    <term name="no-publisher">fără editură</term> <!-- sine nomine -->
     <term name="no-publisher" form="short">f. e.</term>
     <term name="on">pe</term>
     <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
@@ -169,7 +169,7 @@
 
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
-    <term name="hearing" form="verb">mărturie a</term>
+    <term name="hearing" form="verb">audiere a</term>
     <term name="review" form="verb">recenzie a</term>
     <term name="review-book" form="verb">recenzie a cărții</term>
 
@@ -194,16 +194,16 @@
     <term name="ordinal-01" match="whole-number"></term>
 
     <!-- LONG ORDINALS -->
-    <term name="long-ordinal-01">primul</term>
-    <term name="long-ordinal-02">al doilea</term>
-    <term name="long-ordinal-03">al treilea</term>
-    <term name="long-ordinal-04">al patrulea</term>
-    <term name="long-ordinal-05">al cincilea</term>
-    <term name="long-ordinal-06">al șaselea</term>
-    <term name="long-ordinal-07">al șaptelea</term>
-    <term name="long-ordinal-08">al optulea</term>
-    <term name="long-ordinal-09">al nouălea</term>
-    <term name="long-ordinal-10">al zecelea</term>
+    <term name="long-ordinal-01">prima</term>
+    <term name="long-ordinal-02">a doua</term>
+    <term name="long-ordinal-03">a treia</term>
+    <term name="long-ordinal-04">a patra</term>
+    <term name="long-ordinal-05">a cincea</term>
+    <term name="long-ordinal-06">a șasea</term>
+    <term name="long-ordinal-07">a șaptea</term>
+    <term name="long-ordinal-08">a opta</term>
+    <term name="long-ordinal-09">a noua</term>
+    <term name="long-ordinal-10">a zecea</term>
 
     <!-- LONG LOCATOR FORMS -->
     <term name="act">			 
@@ -337,8 +337,8 @@
       <multiple>sub verbis</multiple>
     </term>
     <term name="verse">
-      <single>versetul</single>
-      <multiple>versetele</multiple>
+      <single>strofa</single>
+      <multiple>strofele</multiple>
     </term>
     <term name="volume">
       <single>volumul</single>
@@ -611,7 +611,7 @@
     <term name="host" form="verb">găzduit de</term>
     <term name="narrator" form="verb">narat de</term>
     <term name="organizer" form="verb">organizat de</term>
-    <term name="performer" form="verb">performed by</term>
+    <term name="performer" form="verb">interpretat de</term>
     <term name="producer" form="verb">produs de</term>
     <term name="script-writer" form="verb">scris de</term>
     <term name="series-creator" form="verb">creat de</term>
